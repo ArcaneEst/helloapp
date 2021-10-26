@@ -5,3 +5,6 @@ def greetWhite():
 
 def greetBlack():
     print("hello Black")
+
+greetBlack()
+greetWhite()
